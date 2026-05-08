@@ -1,4 +1,4 @@
-
+Alfred for macOS elite Addon - reminders and quick search is the best Alfred for macOS addon, featuring reminders and quick search. Safe, efficient, and optimized for macOS users.
 
 
 
